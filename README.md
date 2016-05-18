@@ -4,7 +4,7 @@ As an endeavour to learn Objective-C, I built this fully functional calculator. 
 
 Screenshots :
 
-![alt tag](https://raw.githubusercontent.com/sacchitchadha/iCalculator/master/Screenshots/to/calc-screenshot-1.png)
+![alt text](screenshots/calc-screenshot-1.png "Description goes here")
 
 
 
